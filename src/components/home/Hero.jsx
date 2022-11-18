@@ -22,7 +22,7 @@ export const Hero = () => {
             </h1>
             <p data-aos='fade-left'>{val.desc}</p>
             <button className='primaryBtn' data-aos='fade-up-right'>
-              <a href="https://drive.google.com/file/d/1-G0lYwml_Jo8VAYWoqXnqFhgp3sQFIjU/view?usp=share_link">Download CV</a>
+              <a href="https://drive.google.com/file/d/1tLI8LvZtgHov__9fXXfhLXtyF9k6pwOy/view?usp=share_link">Download CV</a>
             </button>
           </div>
         ))}

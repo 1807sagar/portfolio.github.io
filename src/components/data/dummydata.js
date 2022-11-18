@@ -38,16 +38,16 @@ export const home = [
     name: "Sagarpratap Singh Rajput",
     post: "Tech Explorer",
     design: "MERN STACK DEVELOPER",
-    desc: "I am a Tech Explorer and my area of interests are Full Stack Web Development (MERN) , Java Development, Data Science and Competetive Coding.",
+    desc: "I am a Tech Explorer and my area of interests are Full Stack Web Development (MERN) , Java Development, Data Science and Competitive Coding.",
   },
 ]
 export const about = [
   {
     desc:  "-> Intermediate level web developer with 2 years of learning experience in Full Stack Web  Development.",
     desc1: "-> I Can build MERN and Java Projects.",
-    desc2: "-> Areas of interest are MERN, Java, Data Science and Competitive Coding.",
+    desc2: "-> My Area of interests are MERN, Java, Data Science and Competitive Coding.",
     desc3: "-> Can deal with various programming languages like C & C++, Java, Python, Javascript, PHP etc.",
-    desc4: "-> Worked on more than 20+ projects.",
+    desc4: "-> Worked on 20+ projects.",
     cover: "./images/sagar.jpg",
   },
 ]
@@ -169,14 +169,14 @@ export const testimonials = [
   },
   {
     id: 2,
-    text: "I Can build softwares using MERN and Java(CORE & ADVANCE) and able to deal with different kind of SQL and NOSQL databases such as Oracle, MySQL, Firebase, MongoDB Atlas, etc.",
+    text: "I can build softwares using MERN and Java(CORE & ADVANCE) I can also deal with different kinds of SQL and NOSQL databases such as Oracle, MySQL, Firebase, MongoDB Atlas, etc.",
     // image: "./images/testimonials/team-2.png",
     // name: "Alex Ander",
     // post: "Back End Developer",
   },
   {
     id: 3,
-    text: "I can deal with various programming languages such a C, C++, Java, Python, PHP, JavaScript, sql, etc. I also have a very good understanding of Git and Github",
+    text: "I can deal with various programming languages such as C, C++, Java, Python, PHP, JavaScript, sql, etc. I also have a very good understanding of Git and Github",
     // image: "./images/testimonials/team-3.png",
     // name: "GorkCoder",
     post: "React Developer",

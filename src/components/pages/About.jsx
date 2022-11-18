@@ -21,7 +21,7 @@ export const About = () => {
                 <p>{val.desc3}</p>
                 <p>{val.desc4}</p>
                 {/* <button>Download CV</button> */}
-                <button className='primaryBtn'><a href="https://drive.google.com/file/d/1-G0lYwml_Jo8VAYWoqXnqFhgp3sQFIjU/view?usp=share_link">Download CV</a></button>
+                <button className='primaryBtn'><a href="https://drive.google.com/file/d/1tLI8LvZtgHov__9fXXfhLXtyF9k6pwOy/view?usp=share_link">Download CV</a></button>
               </div>
             </>
           ))}
