@@ -45,7 +45,7 @@ export const about = [
   {
     desc:  "-> Intermediate level web developer with 2 years of learning experience in Full Stack Web  Development.",
     desc1: "-> I Can build MERN and Java Projects.",
-    desc2: "-> Area of interests are MERN, Java, Data Science and Competitive Coding.",
+    desc2: "-> Areas of interest are MERN, Java, Data Science and Competitive Coding.",
     desc3: "-> Can deal with various programming languages like C & C++, Java, Python, Javascript, PHP etc.",
     desc4: "-> Worked on more than 20+ projects.",
     cover: "./images/sagar.jpg",
@@ -162,14 +162,14 @@ export const portfolio = [
 export const testimonials = [
   {
     id: 1,
-    text: "I have Completed 20+ projects in different technology fields and I have 2 years of learning experience and can learn new technologies within a short period of time.",
+    text: "I have Completed 20+ projects in different technology fields and I have 2 years of learning experience and can learn new technologies within short period of time.",
     // image: "./images/testimonials/team-1.png",
     // name: "Alamin Musa",
     // post: "Front End Developer",
   },
   {
     id: 2,
-    text: "I Can build softwares using MERN and Java(CORE & ADVANCE) and able to deal with various kind of SQL and NOSQL databases such as Oracle, MySQL, Firebase, MongoDB Atlas, etc.",
+    text: "I Can build softwares using MERN and Java(CORE & ADVANCE) and able to deal with different kind of SQL and NOSQL databases such as Oracle, MySQL, Firebase, MongoDB Atlas, etc.",
     // image: "./images/testimonials/team-2.png",
     // name: "Alex Ander",
     // post: "Back End Developer",
